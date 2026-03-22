@@ -1,4 +1,4 @@
-[![Badge](https://img.shields.io/badge/Website-193CB8)](https://pawel-czyz.github.io/) [![Badge](https://img.shields.io/badge/Publications-193CB8)](https://scholar.google.com/citations?user=7rzyLvYAAAAJ)
+[![Badge](https://img.shields.io/badge/Website-1f4bd8)](https://pawel-czyz.github.io/) [![Badge](https://img.shields.io/badge/Publications-1b9e77)](https://scholar.google.com/citations?user=7rzyLvYAAAAJ)
 
 Welcome!
 
