@@ -2,10 +2,11 @@
 
 Welcome!
 
-I'm a Bayesian statistician and a machine learning researcher, interested in building models of complex data.
+I am a Bayesian statistician and a machine learning researcher, interested in building models of complex data.
 
 I particularly enjoy working on:
-  - Bayesian statistics (Bayesian workflow, model validation, using theory-driven scientific models, scalable inference algorithms),
-  - probabilistic machine learning (deep generative models, representation learning),
-  - applied problems originating from biostatistics (generalized linear mixed models and survival analysis) and computational biology (computational cancer genomics and transcriptomics).
+  - all aspects of Bayesian statistics: from principled workflows and model validation to scalable inference,
+  - probabilistic machine learning, especially deep generative models and representation learning,
+  - applications in biostatistics and computational biology, including mixed models, survival analysis, and cancer genomics.
 
+Beyond my research, I am interested in the intersection of category theory, algebraic topology, and differential geometry with mathematical physics.
